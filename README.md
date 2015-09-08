@@ -2,6 +2,17 @@
 
 Tools for easier maintainance of your privacy
 
+Prerequisites
+-------------
+
+Tools presented here may require to have one of the following NON-STANDARD
+programs available on $PATH:
+* iw
+* hostname
+
+Some of them may be available from my other repositories, such as 
+[this repo](https://github.com/v3l0c1r4pt0r/android_external_net-tools).
+
 List of tools
 -------------
 
